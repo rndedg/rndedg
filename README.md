@@ -1,6 +1,12 @@
 ### Hi there 👋 My name is Gord and I am an aspiring full-stack web developer. This page is filled with projects I have worked on, as well as ones I am working on. Thanks for stopping by!
 <a href="https://www.buymeacoffee.com/gjletkeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+
+##A few notes about me
+- 🔭 I'm currently working on a chat app
+- 🌱 I'm currently learning more and more about JavaScript, HTML, CSS, and more!
+- 💼 I'm open and looking for an Entry-Level or Internship for Web Development
+- 📫 If you would like to reach me, you can do so at [Gord Letkeman](mailto:g.j.letkeman@gmail.com)
 <!--
 **rndedg/rndedg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
