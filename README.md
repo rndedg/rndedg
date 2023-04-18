@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Gord and I am an aspiring full-stack web developer. This page is filled with projects I have worked on, as well as ones I am working on. Thanks for stopping by!
+### Hi there 👋 
+My name is Gord and I am an aspiring full-stack web developer. This page is filled with projects I have worked on, as well as ones I am working on. Thanks for stopping by!
 <a href="https://www.buymeacoffee.com/gjletkeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
