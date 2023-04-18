@@ -2,7 +2,7 @@
 <a href="https://www.buymeacoffee.com/gjletkeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-##A few notes about me
+## A few notes about me
 - 🔭 I'm currently working on a chat app
 - 🌱 I'm currently learning more and more about JavaScript, HTML, CSS, and more!
 - 💼 I'm open and looking for an Entry-Level or Internship for Web Development
