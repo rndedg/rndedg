@@ -5,7 +5,7 @@ My name is Gord and I am an aspiring full-stack web developer. This page is fill
 
 
 ## A few notes about me
-- 🔭 I'm currently working on a chat app
+- 🎸 I love playing guitar and used to be in a Metal band. 
 - 🌱 I'm currently learning more and more about JavaScript, HTML, CSS, and more!
 - 💼 I'm open and looking for an Entry-Level or Internship for Web Development
 - 📫 If you would like to reach me, you can do so [here](mailto:g.j.letkeman@gmail.com)
