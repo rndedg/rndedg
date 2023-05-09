@@ -6,7 +6,7 @@ My name is Gord and I am an aspiring full-stack web developer. This page is fill
 
 ## A few notes about me
 - 🎸 I love playing guitar and used to be in a metal band. 
-- 🌱 I'm currently beginning to learn Python
+- 🌱 I'm currently working on furthering my JavaScript knowledge and then will be focusing on React!
 - 💼 I'm open and looking for an Entry-Level or Internship for Web Development
 - 📫 If you would like to reach me, you can do so [here](mailto:g.j.letkeman@gmail.com)
 
